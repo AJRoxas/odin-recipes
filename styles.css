@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+    background-color: lightyellow;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    color: mediumpurple;
+}
+
+.center-text,
+.recipe-list {
+    text-align: center;
+}
+
+.recipe-list {
+    list-style: none;
+}
+
+.recipe-item,
+.home-space {
+    color: cornflowerblue;
+    font-weight: bold;  
+    text-decoration: none;
+}
+
+.recipe-item {
+    font-size: 28px;
+}
+
+.home-space {
+    font-size: 20px;
+}
+
+.recipe-body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
